@@ -6,6 +6,7 @@ Welcome! Get the soundtrack for Where the Water Tastes Like Wine here: https://r
 Go here for tutorial videos on how to play the music from the game on guitar: http://www.youtube.com/c/JoshuaDuCheneAudio 
 
 If you'd like to donate to my cryptocurrency tipjars, I graciously accept crypto at these addresses: 
+
 Bitcoin: 1K27EsihRDMkTiutA5rPuoNj2hdLJR2ikk
 Litecoin: LTyobV3NDRM29W4ZNFFXpToANtU4mZ2uJT
 Ethereum: 0xF1440D6a051246d3d4fdf5c712E1262004197147 
