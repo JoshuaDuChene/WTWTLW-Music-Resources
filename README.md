@@ -1,7 +1,7 @@
 # WTWTLW-Music-Resources
 Public repository for resources to learn to play the music from Where the Water Tastes Like Wine
 
-Welcome! Get the soundtrack for Where the Water Tastes Like Wine here: https://ryanike.bandcamp.com/album/where-the-water-tastes-like-wine-original-game-soundtrack
+Welcome! Get the soundtrack for Where the Water Tastes Like Wine here: http://WaterWineMusic.com 
 
 Go here for tutorial videos on how to play the music from the game on guitar: http://www.youtube.com/c/JoshuaDuCheneAudio 
 
